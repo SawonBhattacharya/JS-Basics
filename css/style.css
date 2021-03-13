@@ -1,0 +1,62 @@
+.heading{
+    color: bisque;
+}
+
+#headings3{
+    color: brown;
+}
+
+.divstyle{
+    border: 2px solid #144170;
+    padding: 10px;
+}
+.mydiv{
+    border: 2px solid #144170;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: cadetblue;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.roll{
+    border: 2px solid #1a4b50;
+    padding: 10px;   
+}
+
+.dom{
+    border: 2px solid #aa4b50;
+    padding: 10px; 
+    color: chocolate;  
+}
+
+.domup{
+    border: 2px solid #aa4b50;
+    padding: 10px; 
+    background-color: chocolate;  
+    color:whitesmoke;
+}
+.domc{
+    border: 2px solid whitesmoke;
+    padding: 10px; 
+    background-color: #8db2db;  
+    color:#144170;
+}
+.doma{
+    border: 2px solid rgb(19, 100, 165);
+    padding: 10px; 
+    background-color:#144170;  
+    color: #8db2db;
+}
+.pclass{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.divui{
+    border: 2px solid rgb(19, 100, 165);
+    padding: 10px; 
+    background-color:#144170;  
+    color: #8db2db;
+}

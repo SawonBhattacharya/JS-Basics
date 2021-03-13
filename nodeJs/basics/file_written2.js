@@ -1,0 +1,1 @@
+console.log("welcome to file_written. Created by rf.js")

@@ -1,0 +1,1 @@
+console.log("welcome to file_written. Created by rf.js")console.log("welcome back to file_written. appended by rf.js")console.log("welcome back to file_written. appended by rf.js")console.log("welcome back to file_written. appended by rf.js")
